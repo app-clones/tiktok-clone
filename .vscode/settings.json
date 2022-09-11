@@ -10,5 +10,11 @@
         "**/yarn.lock": true,
         "**/node_modules": true
     },
-    "cSpell.words": ["appspot", "firebaseapp", "predeploy", "tiktok"]
+    "cSpell.words": [
+        "appspot",
+        "automerge",
+        "firebaseapp",
+        "predeploy",
+        "tiktok"
+    ]
 }
